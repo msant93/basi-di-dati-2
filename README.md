@@ -37,7 +37,7 @@ In questo repository puoi quindi esplorare soluzioni proposte da altri studenti 
     <td> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/64"> 11. AmaZZon </a> </td>
     <td> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/29"> 12. Stoxx </a> </td>
     <td> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/31"> 13. CoLab </a> </td>
-    <td> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27"> 14. Citta Verde </a> </td>
+    <td> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/27"> 14. Città Verde </a> </td>
     <td> <a href="https://github.com/sapienzastudentsnetwork/basi-di-dati-2/discussions/32"> 15. My Precious </a> </td>
   </tr>
 </table>
